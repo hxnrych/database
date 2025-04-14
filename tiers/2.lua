@@ -16,7 +16,6 @@ return {
   2961380998, -- 173t_2
   3002877553, -- kasabk1
   303325360,   -- Ultrakiesha_xD
-  3034004536, -- Ravman_146
   3105526285, -- Iwhwkk927
   3153679790, -- imjustanooblol10
   3162556171, -- IchNichtHi
@@ -87,7 +86,6 @@ return {
   5613869843, -- Master_Reb1rth
   5636941432, -- fhwkvdnesjf
   564049982,  -- PixelPlayz3D
-  5735050322, -- god_elmo9
   5774313455, -- NazelAlt
   5785832432, -- chxd_alt2
   5797264026, -- BaconBaconBacon_60
@@ -112,7 +110,6 @@ return {
   7261631459, -- Elijahscot5557
   7296625627, -- GreenGMonster
   7317317750, -- MANTAPGG00
-  7379953841, -- Wassupdidiyudi
   7385645405, -- DUN_ALT5
   7389717261, -- Nepali_MCbaba929
   7408883457, -- LMC_Glitch
