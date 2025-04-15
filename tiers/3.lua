@@ -44,4 +44,11 @@ return {
   7684995893, -- Lemiwe23
   3747018843, -- alexaaactlyyy
   2296292881, -- AA12_OVERLORD
+  1134900406, -- dayday_godly
+  4287065971, -- Myshesh11
+  4417573261, -- Monkey3jw
+  5854827680, -- d4sum_smoove
+  4010022728, -- spiritizs0lar
+  6108265993, -- D4is_heem
+  6160223496, -- Sir_D44
 }
