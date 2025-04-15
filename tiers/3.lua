@@ -35,11 +35,13 @@ return {
   8136734970, -- Yunpapopepi
   4457446709, -- ceyoJ16
   7748739499, -- KymJyc725
-7098684124, -- BlackRoses1261
-3686637454, -- Headballer2007
+  7098684124, -- BlackRoses1261
+  3686637454, -- Headballer2007
   4396616182, -- Fan_deleder211
   4160491056, -- Jdidjdjdkdq
   8259705856, -- Erv_altpublix2
   7653072419, -- edsboi23
   7684995893, -- Lemiwe23
+  3747018843, -- alexaaactlyyy
+  2296292881, -- AA12_OVERLORD
 }
