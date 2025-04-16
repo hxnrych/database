@@ -52,5 +52,7 @@ return {
   6108265993, -- D4is_heem
   6160223496, -- Sir_D44
   6203687235, -- FLYTWINS_friend3
- 4551495445 , -- Naz_qxp
+  4551495445 , -- Naz_qxp
+  1019502076, -- guscat23
+  1027408851, -- skinrs
 }
