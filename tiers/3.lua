@@ -65,4 +65,8 @@ return {
   4824538574, -- Alexsa123_10
   7979340663, -- Imissyousomuch858
   2302179224, -- military_199
+3815999758, -- zuggggggggggguuh
+8325643472, -- Dosapsolame
+8328906307, -- ERV_NINJALEGION
+  8328935953, -- ERV_Doepion
 }
