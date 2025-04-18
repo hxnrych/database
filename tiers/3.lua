@@ -60,4 +60,8 @@ return {
   5288869545, -- josiphpanot
   5290674279, -- josiphpanot2
   5290693501, -- josiphpanot3
+  8044881935, -- Vzxu3
+  7966346528, -- tortprince
+  4824538574, -- Alexsa123_10
+  7979340663, -- Imissyousomuch858
 }
