@@ -56,4 +56,8 @@ return {
   1019502076, -- guscat23
   1027408851, -- skinrs
   3464789356, -- Razplyx
+  4702158802, -- sephbobo
+  5288869545, -- josiphpanot
+  5290674279, -- josiphpanot2
+  5290693501, -- josiphpanot3
 }
