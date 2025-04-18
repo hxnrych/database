@@ -200,4 +200,8 @@ return {
   2594460198, -- AAPOD_OVERLORD
   2631920403, -- CEO_BTR
   8325643472, -- Dosapsolame
+  4702158802, -- sephbobo
+  5288869545, -- josiphpanot
+  5290674279, -- josiphpanot2
+  5290693501, -- josiphpanot3
 }
