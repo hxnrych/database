@@ -205,4 +205,5 @@ return {
   5290674279, -- josiphpanot2
   5290693501, -- josiphpanot3
   6199021566, -- Khxmwyn
+  8206028752, -- z0ne57
 }
