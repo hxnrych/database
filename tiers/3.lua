@@ -70,4 +70,5 @@ return {
 8328906307, -- ERV_NINJALEGION
   8328935953, -- ERV_Doepion
   4698791805, -- NW_GlitcherSigma
+  4068438790, -- GOD_BLOX9990
 }
