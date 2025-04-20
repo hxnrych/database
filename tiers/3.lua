@@ -69,4 +69,5 @@ return {
 8325643472, -- Dosapsolame
 8328906307, -- ERV_NINJALEGION
   8328935953, -- ERV_Doepion
+  4698791805, -- NW_GlitcherSigma
 }
