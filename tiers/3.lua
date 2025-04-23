@@ -65,9 +65,13 @@ return {
   4824538574, -- Alexsa123_10
   7979340663, -- Imissyousomuch858
   2302179224, -- military_199
-3815999758, -- zuggggggggggguuh
-8325643472, -- Dosapsolame
-8328906307, -- ERV_NINJALEGION
+  3815999758, -- zuggggggggggguuh
+  8325643472, -- Dosapsolame
+  8328906307, -- ERV_NINJALEGION
   8328935953, -- ERV_Doepion
   4698791805, -- NW_GlitcherSigma
+  8095408705, -- Smeltelim
+  7982904528, -- Krepsehale
+  8007817001, -- Nylonstreng1
+  3585518968, -- UnderStarry
 }
