@@ -75,4 +75,7 @@ return {
   8007817001, -- Nylonstreng1
   3585518968, -- UnderStarry
   501228097, -- T0xicDoh
+  3069762819, -- lladrianllll
+  1977928469, -- Mrbignewcoming3
+  
 }
