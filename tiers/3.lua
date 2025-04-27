@@ -77,5 +77,6 @@ return {
   501228097, -- T0xicDoh
   3069762819, -- lladrianllll
   1977928469, -- Mrbignewcoming3
-  
+  5049716738, -- Pokoyozinhoo152
+  3256031860, -- Pokoyo155
 }
