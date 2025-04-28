@@ -80,4 +80,6 @@ return {
   5049716738, -- Pokoyozinhoo152
   3256031860, -- Pokoyo155
   4950606604, -- Kakachia_100
+  2949769465, -- thagood_pro
+  4999966619, -- HelloiamGru4
 }
