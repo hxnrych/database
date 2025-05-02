@@ -86,5 +86,7 @@ return {
   5823798765, -- x_loveblue 
   5582011915, -- HelperX81 
   3971788865, -- Mr_Nick81 
-  5683079676, -- ItaCute86 
+  5683079676, -- ItaCute86
+  7893624238, -- ES_LordMaori
+  
 }
