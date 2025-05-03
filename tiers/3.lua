@@ -88,5 +88,9 @@ return {
   3971788865, -- Mr_Nick81 
   5683079676, -- ItaCute86
   7893624238, -- ES_LordMaori
-  
+  4866170364, -- tr1ckst11113
+  7408883457, -- LMC_Glitch
+  8368595261, -- LM_Lordmlx2
+  6116079863, -- NLS_LORDTRADE
+  5481923295, -- OG_Lordalt
 }
