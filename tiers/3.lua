@@ -93,4 +93,5 @@ return {
   8368595261, -- LM_Lordmlx2
   6116079863, -- NLS_LORDTRADE
   5481923295, -- OG_Lordalt
+  6199021566, -- Khxmwyn
 }
