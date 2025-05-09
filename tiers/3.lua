@@ -97,4 +97,7 @@ return {
   1412133438, -- God_gamer528
   4199416258, -- C1_Stone
   2437050410, -- H1ghOFFNelli
+  7178538302, -- SuperJacksZz
+  136771985, --  zone57
+  8300209641, --  Zunaafluwa
 }
