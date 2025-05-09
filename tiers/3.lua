@@ -100,4 +100,5 @@ return {
   7178538302, -- SuperJacksZz
   136771985, --  zone57
   8300209641, --  Zunaafluwa
+  5163486268, -- rata_uyy1
 }
