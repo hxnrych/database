@@ -94,4 +94,7 @@ return {
   6116079863, -- NLS_LORDTRADE
   5481923295, -- OG_Lordalt
   6199021566, -- Khxmwyn
+  1412133438, -- God_gamer528
+  4199416258, -- C1_Stone
+  2437050410, -- H1ghOFFNelli
 }
