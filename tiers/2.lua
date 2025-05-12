@@ -215,4 +215,6 @@ return {
   909107186, -- leoelmelorrrr
   3507262653, -- mamamo_bpue
   2684908158, -- zixxIol
+  2036727819, -- vandamcruz22
+  8435867315, -- jamesrawe
 }
